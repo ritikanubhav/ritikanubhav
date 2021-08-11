@@ -18,7 +18,7 @@ int main()
   char code[][]={"c","html"};
   char askmeabout[]="competitive programming";
   
-  printf("Ritik is a cool coder :sunglasses:");
+  printf("Ritik is a cool coder 😎");
   
   if(challenge==given)
     printf("challenge is accepted");
