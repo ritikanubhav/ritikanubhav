@@ -15,8 +15,8 @@ int main()
 {
   char name[]="ritik_anubhav";
   char pronoun[]="He|Him";
-  char code[][]={"c","html"};
-  char askmeabout[]="competitive programming";
+  char code[][]={"C","C++"HTML","CSS","JavaScript","React","Firebase"};
+  char askmeabout[]="FrontEnd Development";
   
   printf("Ritik is a cool coder 😎");
   
