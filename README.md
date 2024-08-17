@@ -37,7 +37,7 @@ int main()
 
 ---
 ![RITIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikanubhav&show_icons=true&theme=radical&count_private=true&border_radius=50)<br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=40&theme=radical&length=80)](https://github.com/ritikanubhav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=50&theme=radical&length=80)](https://github.com/ritikanubhav/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlJidFU3cQDuavFm5dGQQTw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
