@@ -19,25 +19,15 @@ namespace AboutMe
         {
             string name = "ritik_anubhav";
             string pronoun = "He|Him";
-            string[] code = { "C", "C++", "HTML", "CSS", "JavaScript", "React", "Firebase", "C#", "ASP.NET", "EF", "Angular", "TypeScript" };
+            string[] skills = { "C#", "ASP.NET", "Entity Framework", "OOP", "Angular", "TypeScript", "HTML", "CSS", "JavaScript" };
             string askMeAbout = "Full Stack Development";
 
-            Console.WriteLine("Ritik is a passionate developer with a knack for problem-solving 😎");
+            Console.WriteLine("Ritik is a passionate Full Stack Developer with a strong foundation in .NET technologies.");
 
             bool challengeGiven = true;
             if (challengeGiven)
             {
                 Console.WriteLine("Challenge accepted!");
-            }
-
-            int years = 4;
-            int skills = 2;
-            int experience = 1;
-            for (int i = 0; i < years; i++)
-            {
-                Console.WriteLine("CODE EAT SLEEP REPEAT");
-                skills *= 2;
-                experience *= 2;
             }
         }
     }
