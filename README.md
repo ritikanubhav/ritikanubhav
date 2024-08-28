@@ -1,10 +1,10 @@
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding GIF">
 
 ## नमस्ते 🙏, I'm Ritik Anubhav  
 ## Full Stack Developer | Coding Enthusiast 👨‍💻  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-anubhav-253ab3211)  
-[![Gmail](https://img.shields.io/badge/Gmail-ritikanubhav59%40gmail.com-red?logo=gmail&logoColor=white)](mailto:ritikanubhav59@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ritik-anubhav-253ab3211)  
+[![Gmail](https://img.shields.io/badge/Gmail-ritikanubhav59%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ritikanubhav59@gmail.com)  
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="About Me"> A little more about me...
 
@@ -55,9 +55,9 @@ namespace AboutMe
 
 ### 🔗 Connect with me:
 
-<a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
-<a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="30" /></a>
-<a href="https://github.com/ritikanubhav" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" /></a>
-<a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/worldwide-location.png" alt="Website" width="30" /></a>
+<a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
+<a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" /></a>
+<a href="https://github.com/ritikanubhav" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="30" /></a>
+<a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" width="30" /></a>
 
 ⭐️ From [@ritikanubhav](https://github.com/ritikanubhav)
