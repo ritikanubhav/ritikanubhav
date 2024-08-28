@@ -59,4 +59,4 @@ namespace AboutMe
 <a href="https://github.com/ritikanubhav" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30"></a>
 <a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/worldwide-location.png" alt="Website" width="30"></a>
 
-⭐️ From [@ritikanubhav](https://github.com/ritikanubhav)
+⭐️ From [@ritikanubhav](https://github.com/ritikanubhav){:target="_blank"}
