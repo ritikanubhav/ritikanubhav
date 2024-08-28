@@ -46,17 +46,17 @@ namespace AboutMe
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikanubhav&show_icons=true&theme=radical&count_private=true&border_radius=50" alt="RITIK's GitHub Stats" style="width: 48%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=50&theme=radical" alt="Top Langs" style="width: 48%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikanubhav&show_icons=true&theme=radical&count_private=true&border_radius=15" alt="RITIK's GitHub Stats" style="width: 48%; height: 200px; border: 2px solid #e6e6e6;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=15&theme=radical" alt="Top Langs" style="width: 48%; height: 200px; border: 2px solid #e6e6e6;" />
 </div>
 
 ---
 
 ### 🔗 Connect with me:
 
-<a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://github.com/ritikanubhav" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+<a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="30"></a>
+<a href="https://github.com/ritikanubhav" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30"></a>
+<a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/worldwide-location.png" alt="Website" width="30"></a>
 
 ⭐️ From [@ritikanubhav](https://github.com/ritikanubhav)
