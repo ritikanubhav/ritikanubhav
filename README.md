@@ -45,8 +45,10 @@ namespace AboutMe
 
 ---
 
-![RITIK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikanubhav&show_icons=true&theme=radical&count_private=true&border_radius=50)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=50&theme=radical&length=80)](https://github.com/ritikanubhav/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikanubhav&show_icons=true&theme=radical&count_private=true&border_radius=50" alt="RITIK's GitHub Stats" style="width: 48%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=50&theme=radical" alt="Top Langs" style="width: 48%; height: 200px;" />
+</div>
 
 ---
 
