@@ -42,14 +42,29 @@ namespace AboutMe
         }
     }
 }
-🌟 About Me:
-🎓 Completed B.E. in Information Science from SMVIT
-💼 .NET Full Stack Developer with experience in EF, ASP.NET MVC, C#, OOP, Angular, TypeScript
-🛠️ Always eager to learn and take on new challenges
-🎯 Focused on building scalable and secure applications
-<br/>
+```
 
-🔗 Connect with me:
-<a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a> <a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a> <a href="https://github.com/ritikanubhav" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a> <a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+---
 
-⭐️ From @ritikanubhav
+### 🌟 About Me:
+
+- 🎓 Completed B.E. in Information Science from SMVIT
+- 💼 .NET Full Stack Developer with experience in EF, ASP.NET MVC, C#, OOP, Angular, TypeScript
+- 🛠️ Always eager to learn and take on new challenges
+- 🎯 Focused on building scalable and secure applications
+
+---
+
+![RITIK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikanubhav&show_icons=true&theme=radical&count_private=true&border_radius=50)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikanubhav&langs_count=8&layout=compact&border_radius=50&theme=radical&length=80)](https://github.com/ritikanubhav/github-readme-stats)
+
+---
+
+### 🔗 Connect with me:
+
+<a href="https://www.linkedin.com/in/ritik-anubhav-253ab3211" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/ritik_anubhav_/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://github.com/ritikanubhav" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://ritikanubhav.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+
+⭐️ From [@ritikanubhav](https://github.com/ritikanubhav)
