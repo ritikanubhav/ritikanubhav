@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## नमस्ते 🙏, I'm Ritik Anubhav  
-## NOOB CODER 👨‍💻 | Full Stack Developer  
+## LAZY CODER 👨‍💻 | Full Stack Developer  
 
 [![](https://img.shields.io/badge/LinkedIn-ritik-blue)](https://www.linkedin.com/in/ritik-anubhav-253ab3211/)
 [![](https://img.shields.io/badge/Gmail-ritikanubhav59%40gmail.com-red)](mailto:ritikanubhav59@gmail.com)
